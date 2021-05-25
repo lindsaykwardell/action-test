@@ -2,6 +2,8 @@
 
 This action prints "Hello World" or "Hello" + the name of a person to greet to the log.
 
+This was created using [example code by Github](https://docs.github.com/en/actions/creating-actions/creating-a-javascript-action).
+
 ## Inputs
 
 ### `who-to-greet`
